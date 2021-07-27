@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prastika
-- 👀 I’m interested in Data Science
+- 👀 Data Science enthusiast
 - 💞️ I’m looking to collaborate on real case any data science project
 - 📫 You can reach me at hiprastikaindriyanti@gmail.com
 
